@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+}
+#root {
+    height: 100%;
+    background-color: #fcfaf6;
+}
+.kanji {
+    font-size: 50px;
+}
+.progress-bar-wrapper {
+    width: 90%;
+}
+.btn:focus, .btn:active {
+    box-shadow: none;
+}
+.answer-kanji-single {
+    font-size: 30px;
+    text-align: center;
+}

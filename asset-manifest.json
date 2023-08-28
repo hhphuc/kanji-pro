@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kanji-pro/static/css/main.34de6062.chunk.css",
+    "main.js": "/kanji-pro/static/js/main.e3d1ff3d.chunk.js",
+    "main.js.map": "/kanji-pro/static/js/main.e3d1ff3d.chunk.js.map",
+    "runtime~main.js": "/kanji-pro/static/js/runtime~main.c00cc48e.js",
+    "runtime~main.js.map": "/kanji-pro/static/js/runtime~main.c00cc48e.js.map",
+    "static/js/2.ca09a3e9.chunk.js": "/kanji-pro/static/js/2.ca09a3e9.chunk.js",
+    "static/js/2.ca09a3e9.chunk.js.map": "/kanji-pro/static/js/2.ca09a3e9.chunk.js.map",
+    "index.html": "/kanji-pro/index.html",
+    "precache-manifest.c87071edb91ff46b30688d9dae65d609.js": "/kanji-pro/precache-manifest.c87071edb91ff46b30688d9dae65d609.js",
+    "service-worker.js": "/kanji-pro/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/kanji-pro/static/css/main.34de6062.chunk.css.map"
+  }
+}
